@@ -1,0 +1,6 @@
+{
+  "name": "KVK Events",
+  "description": "KVK Events is a premium, full-service event management website specializing in weddings, birthdays, engagements, and corporate/cultural celebrations, crafted by founder K. Vamsi Krishna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
